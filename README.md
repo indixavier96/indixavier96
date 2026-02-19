@@ -27,7 +27,7 @@ experience in performance optimization for elliptic curve computations. My work 
 execution latency and computational cost in large-scale cryptographic operations, particularly those involving scalar
 multiplication and nite eld arithmetic over secp256k1 and related curves.
 
-One of my most signi cant achievements is the design and implementation of an ultra–high-performance Bitcoin
+One of my most significant achievements is the design and implementation of an ultra–high-performance Bitcoin
 vanity address generation algorithm.
 This system was engineered to perform massively parallel elliptic curve computations with extreme ef ciency,
 enabling large-scale search operations for pattern-constrained public addresses.
