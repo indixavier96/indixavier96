@@ -44,15 +44,6 @@ constructs into production-grade implementations capable of operating at extreme
 - Decentralized solution development on various Layer 1 blockchain architectures and protocol-level cryptography,
 including: Bitcoin, Ethereum and Solana networks
 
----
-
-### 🎓 Education
-
-**Taylor's University**  
-*Bachelor's Degree (2014-2018)* | *Bachelor of Engineering (BEng)*
-
----
-
 ### 🌱 Top Skills
 - Algorithm optimization
 - Smart contract development
