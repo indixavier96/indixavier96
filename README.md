@@ -20,23 +20,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I am a specialized expert in Elliptic Curve Cryptography (ECC) with over ten years of focused research and engineering
-experience in performance optimization for elliptic curve computations. My work concentrates on minimizing
-execution latency and computational cost in large-scale cryptographic operations, particularly those involving scalar
-multiplication and nite eld arithmetic over secp256k1 and related curves.
-
-One of my most significant achievements is the design and implementation of an ultra–high-performance Bitcoin
-vanity address generation algorithm.
-This system was engineered to perform massively parallel elliptic curve computations with extreme ef ciency,
-enabling large-scale search operations for pattern-constrained public addresses.
-
-Overall, my expertise bridges advanced elliptic curve mathematics, high-performance systems engineering, GPU
-parallel computing, and blockchain protocol architecture. I specialize in transforming theoretical cryptographic
-constructs into production-grade implementations capable of operating at extreme computational throughput.
-
----
 
 ### 🚀 Key Achievements
 - Approximately 10 million addresses per second on modern CPU architectures
