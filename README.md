@@ -1,7 +1,7 @@
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indixavier96&label=Profile%20views&color=0e75b6&style=flat" alt="indixavier96" /> </p>
   
-# Hi there👋, I'm Indran Xavier
+# Hi there👋
 
 <p>
   <i>Blockchain engineer | ECC expert | Smart Contract | Fast Vanity Address Generator</i>
